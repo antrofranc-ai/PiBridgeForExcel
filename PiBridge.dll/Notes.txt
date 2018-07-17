@@ -1,0 +1,16 @@
+Installation notes:
+
+Requirement : 
+MS Office 2007 or above 32 bit only.
+Pi installed.
+
+Extract the contents to a folder.
+Right click on the file 'Register.bat' and select 'Run as Administrator'
+
+Disclaimer:
+We have not changed or modified the pibridge.dll.
+You can check the file integrity by comparing this file with original pibridge.dll
+We just made a batch file to register the dll to make it work with Excel.
+The batch file is open and you can see the cmd's of the batch file with notepad.
+The sample excel sheet also open and you can see the VBA code used to place order.
+Nothing is hidden :)
