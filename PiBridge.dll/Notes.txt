@@ -4,7 +4,12 @@ Requirement :
 MS Office 2007 or above 32 bit only.
 Pi installed.
 
-Extract the contents to a folder.
+Download the below files from here https://github.com/howutrade/PiBridgeForExcel/tree/master/PiBridge.dll
+1. Register.bat
+2. client.ini
+3. pibridge.dll
+
+Make sure all files are in the same folder.
 Right click on the file 'Register.bat' and select 'Run as Administrator'
 
 Disclaimer:
